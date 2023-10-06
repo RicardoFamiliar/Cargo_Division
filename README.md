@@ -14,11 +14,11 @@ __Excel for importation:__
 
 __Interface (with a theme changer available on tkinter library):__
 
-![interface](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/5d620df7-f5b7-49c9-9335-dd5aaaa78acf)
+![interface](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/2a9a7de3-0610-44fe-9234-be4d7f3a7b6d)
 
 __Final result:__
 
-![cargo_final](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/52b7ec6f-d8d9-43e0-8489-ceba6223aa91)
+![cargo_final](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/6a321347-7587-4ce5-9dea-04f5bafd25e7)
 
 (the company names are fictitious and i used 25000 kg's and 70 Cubic Meters as an example)
 
