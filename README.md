@@ -10,7 +10,7 @@ Then, it will apply the [FFD algorithm](https://en.wikipedia.org/wiki/First-fit-
 
 __Excel for importation:__
 
-![cargo_file](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/758f24b1-f814-4e58-a6e7-e2defe173b48)
+![cargo_file](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/08ab48dd-90e7-4c0b-ac93-dc5474cd49cf)
 
 __Interface (with a theme changer available on tkinter library):__
 
