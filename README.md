@@ -22,4 +22,5 @@ __Final result:__
 
 (the company names are ficticous and i used 25000 kg's and 70 Cubic Meters as an example)
 
-I've uploaded the code and the executable file for you to check out. Don't hesitate to share any recommendations or thoughts! 😄
+I've uploaded the code and the Excel test file for you to check out, to make the executable you must run __'pyinstaller --onefile (name of the file with the code i showed you).pyw'__ 
+Don't hesitate to share any recommendations or thoughts! 😄
