@@ -6,7 +6,7 @@ This software was created in Python with the purpose of testing the Tkinter libr
 The distrubtion is based on the cubic meters and weight but there are also some constraints, if the destination is Tanger or Casablanca, the cargoes must go on the same truck, if possible. This constraint is added based on real-life scenarios where such arrangements are often made.
 
 The first step is to import the Excel file containing the EXPEDITEUR (Company name), MEAD (destination), Kgs (weight), and M3 (cubic meters).
-Then, it will apply the FFD algorithm to optimize the distribution and export an Excel file with a name and location chosen by the user.
+Then, it will apply the [FFD algorithm](https://en.wikipedia.org/wiki/First-fit-decreasing_bin_packing) to optimize the distribution and export an Excel file with a name and location chosen by the user.
 
 __Excel for importation:__
 
