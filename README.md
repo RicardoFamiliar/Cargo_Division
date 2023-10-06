@@ -10,15 +10,15 @@ Then, it will apply the [FFD algorithm](https://en.wikipedia.org/wiki/First-fit-
 
 __Excel for importation:__
 
-![cargo_file](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/08ab48dd-90e7-4c0b-ac93-dc5474cd49cf)
+![cargo_file](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/640f2f1c-1622-43c6-a14e-4a88ad5d5ca2)
 
 __Interface (with a theme changer available on tkinter library):__
 
-![interface](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/2a9a7de3-0610-44fe-9234-be4d7f3a7b6d)
+![interface](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/1090a004-d174-49ec-a64f-b054796aeeb4)
 
 __Final result:__
 
-![cargo_final](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/6a321347-7587-4ce5-9dea-04f5bafd25e7)
+![cargo_final](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/dc347580-a046-4e1d-ab01-25cd6923a727)
 
 (the company names are fictitious and i used 25000 kg's and 70 Cubic Meters as an example)
 
