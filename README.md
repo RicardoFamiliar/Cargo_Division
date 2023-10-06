@@ -20,7 +20,7 @@ __Final result:__
 
 ![cargo_final](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/52b7ec6f-d8d9-43e0-8489-ceba6223aa91)
 
-(the company names are ficticous and i used 25000 kg's and 70 Cubic Meters as an example)
+(the company names are fictitious and i used 25000 kg's and 70 Cubic Meters as an example)
 
 I've uploaded the code and the Excel test file for you to check out, to make the executable you must run __'pyinstaller --onefile (name of the file with the code i showed you).pyw'__ 
 Don't hesitate to share any recommendations or thoughts! 😄
