@@ -8,16 +8,18 @@ The distrubtion is based on the cubic meters and weight but there are also some 
 The first step is to import the Excel file containing the EXPEDITEUR (Company name), MEAD (destination), Kgs (weight), and M3 (cubic meters).
 Then, it will apply the FFD algorithm to optimize the distribution and export an Excel file with a name and location chosen by the user.
 
-Excel for importation:
+__Excel for importation:__
 
 ![cargo_file](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/758f24b1-f814-4e58-a6e7-e2defe173b48)
 
-Interface (with a theme changer available on tkinter library):
+__Interface (with a theme changer available on tkinter library):__
 
 ![interface](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/5d620df7-f5b7-49c9-9335-dd5aaaa78acf)
 
-Final result:
+__Final result:__
 
 ![cargo_final](https://github.com/RicardoFamiliar/Cargo_Division/assets/117604174/52b7ec6f-d8d9-43e0-8489-ceba6223aa91)
 
 (the company names are ficticous and i used 25000 kg's and 70 Cubic Meters as an example)
+
+I've uploaded the code and the executable file for you to check out. Don't hesitate to share any recommendations or thoughts! 😄
